@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Monitor](https://www.frontendmentor.io/solutions/huddle-landing-page-with-tailwindcss-ZefDIQDh8G)
 - Live Site URL: [Netlify](https://fm-challenge-huddle-landing.netlify.app)
 
 ## My process
