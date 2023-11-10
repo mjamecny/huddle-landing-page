@@ -3,7 +3,8 @@ module.exports = {
   content: ["*"],
   theme: {
     fontFamily: {
-      sans: ["Poppins", "'Open Sans'"],
+      body: ["'Open Sans'"],
+      heading: ["Poppins"],
     },
     spacing: {
       0.2: "2px",
@@ -39,6 +40,10 @@ module.exports = {
     colors: {
       violet: "hsl(257, 40%, 49%)",
       softMagenta: "hsl(300, 69%, 71%)",
+    },
+    backgroundImage: {
+      mobile: "url('/imgs/bg-mobile.svg')",
+      desktop: "url('/imgs/bg-desktop.svg')",
     },
   },
   plugins: [],
